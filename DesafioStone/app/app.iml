@@ -106,8 +106,8 @@
     <orderEntry type="library" exported="" name="CreditCardEntry-1.4.7" level="project" />
     <orderEntry type="library" exported="" name="lombok-1.16.8" level="project" />
     <orderEntry type="library" exported="" name="ormlite-jdbc-4.48" level="project" />
-    <orderEntry type="library" exported="" name="gson-2.6.2" level="project" />
     <orderEntry type="library" exported="" name="spring-android-core-2.0.0.M3" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.6.2" level="project" />
     <orderEntry type="library" exported="" name="animated-vector-drawable-24.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" name="ormlite-core-4.48" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-24.0.0-alpha1" level="project" />
