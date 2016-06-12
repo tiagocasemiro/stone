@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DesafioStone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="title_transacao">Transação</string>
+    <string name="nome">Nome</string>
+    <string name="valor">Valor</string>
+    <string name="dados_cartao">Dados do cartão</string>
+
+    <string name="efetuar_transacao">Efetuar transação</string>
+    <string name="cartao_invalido">Dados do cartão de crédito inválido</string>
+    <string name="sem_conexao">Sem conexão com a internet</string>
+    <string name="nome_obrigatorio">Nome é obrigatório</string>
+    <string name="valor_obrigatorio">Valor é obrigatório</string>
+    <string name="conexao_restabelecida">Conexão com a internet restabelecida</string>
+
+    <string name="erro_requisicao">Erro ao fazer requisição</string>
+
+    <string name="text_hint">9999 9999 9999 9999</string>
+
+    <string name="permissao_internet_negada">Esta aplicação necessita de acesso a internet para efetuar o pagamento on-line.</string>
+</resources>
